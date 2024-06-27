@@ -9,6 +9,13 @@ This repository hosts a **portfolio** created using **HTML** and **CSS**. The pr
 - HTML5 
 - CSS3
 
+## License
+MIT License.
+
+You can create your own personal Portfolio for free without notifying me by forking this project.
+
+Check out [LICENSE](./LICENSE) for more detail.
+
 ## Installation
 
 **1 - Clone this repo:**
@@ -33,9 +40,4 @@ Remove-Item .git -Recurse -Force
 ```
 
 
-## License
-MIT License.
 
-You can create your own personal Portfolio for free without notifying me by forking this project.
-
-Check out [LICENSE](./LICENSE) for more detail.
