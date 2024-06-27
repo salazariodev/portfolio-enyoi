@@ -1,7 +1,8 @@
 # Personal Portfolio
 This repository hosts a **portfolio** created using **HTML** and **CSS**. The primary aim of this project is to showcase my expertise in front-end web development and to demonstrate the use of **GitHub Pages** for deploying and sharing projects.
 
-Click on the image if you want to view this project online.
+**Click on the image if you want to view this project online.**
+
 [![Portfolio](./assets/img/portfolio.webp)](https://portfolio-enyoi.salazariodev.com/)
 
 ## Technologies
