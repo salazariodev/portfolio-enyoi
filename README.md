@@ -34,6 +34,7 @@ cd portfolio-enyoi
 rm -rf .git
 ```
 **Windows**
+
 Using PowerShell
 ```
 Remove-Item .git -Recurse -Force
